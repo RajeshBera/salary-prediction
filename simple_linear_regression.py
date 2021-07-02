@@ -39,19 +39,6 @@ plt.title("Salary predection with experience")
 reg.predict([[1]])
 
 
-# In[8]:
-
-
-reg.intercept_
-
-
-# In[9]:
-
-
-reg.coef_
-
-
-# In[31]:
 
 
 
